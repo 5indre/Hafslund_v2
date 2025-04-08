@@ -44,3 +44,13 @@ body {
     color: #666;
     margin-bottom: 15px;
 }
+
+/* Footer-stil */
+footer {
+    background-color: #ffffff;
+    padding: 30px 20px;
+    text-align: center;
+    font-size: 1.2rem;
+    color: #333;
+    margin-top: 30px;
+}
